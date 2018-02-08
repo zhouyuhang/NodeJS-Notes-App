@@ -41,9 +41,9 @@ node app.js remove --title="My Note No 1"
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Node.js
+* lodash
+* yargs
 
 
 ## Authors
